@@ -1,0 +1,55 @@
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: auto;
+            height: auto;
+            position: sticky;
+        }
+        
+        a {
+            text-decoration: none;
+            text-align: center;
+            padding: 8px 16px;
+
+        }
+
+        a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .button{
+            background-color: purple;
+            color: white;
+            position: absolute;
+            bottom: 500px;
+            right: 1000px;
+        }
+        .button2{
+            background-color: dimgray;
+            color: white;
+            position: absolute;
+            bottom: 450px;
+            right: 1000px;
+        }
+        .previous {
+            background-color: dimgray;
+            color: whitesmoke;
+            position: absolute;
+            bottom: 400px;
+            right: 1150px;
+        }
+
+        .next {
+            background-color: purple;
+            color: white;
+            position: absolute;
+            bottom: 400px;
+            right: 1000px;
+        }
+
+        .round {
+            border-radius: 50%;
+        }
+ 
